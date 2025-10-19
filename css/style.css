@@ -82,7 +82,7 @@ body {
     margin: 0 auto 20px auto;
     background-color: #333;
     /* PARA ADICIONAR SUA FOTO, DESCOMENTE A LINHA ABAIXO E AJUSTE O CAMINHO */
-    /* background-image: url('../sua-foto.jpg'); */
+    /* background-image: url('https://i.imgur.com/rz2C9h2.png'); */
     background-size: cover;
     background-position: center;
     border: 3px solid rgba(255, 255, 255, 0.5);
